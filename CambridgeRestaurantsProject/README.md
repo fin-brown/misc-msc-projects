@@ -1,0 +1,1 @@
+This project was submitted for ST445 Managing and Visualising Data. It demonstrates some XML parsing, web-scraping, data cleaning, statistical modelling and several visualisations (including an interactive geographical plot). 
