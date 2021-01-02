@@ -1,1 +1,2 @@
-This project was submitted for ST445 Managing and Visualising Data. It demonstrates some XML parsing, web-scraping, data cleaning, statistical modelling and several visualisations (including an interactive geographical plot). 
+This project was submitted for MSc Data Science LSE ST445 Managing and Visualising Data. It demonstrates some XML parsing, web-scraping, data cleaning, statistical modelling and several visualisations (including an interactive geographical plot). 
+See the [Jupyter notebook](https://github.com/fin-brown/misc-msc-projects/blob/master/CambridgeRestaurantsProject/CambridgeRestaurantsNotebook.ipynb) for the report.
